@@ -10,27 +10,7 @@
     border: blue 1px solid;
 }
 
-.grid-container {
-    position: relative;
-    margin: auto;
-}
-
-.grid-row{
-    display: flex;
-    margin: 0 0;
-    padding: 0 0;
-}
-
-.grid-cell {
-    width: 25px;
-    height: 25px;
-    border: 1px solid red;
-    display: flex;
-    margin: 0 0;
-    padding: 0 0;
-}
-
-#game-grid {
-    width: fit-content;
+#game-panel {
+    width: 80%;
     margin: auto;
 }
